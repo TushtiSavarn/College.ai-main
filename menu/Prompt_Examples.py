@@ -1,5 +1,5 @@
 import streamlit as st
-#main function
+#Main function
 def main():
     st.write("<h1><center>Prompt Examples</center></h1>", unsafe_allow_html=True)
     
